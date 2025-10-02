@@ -150,6 +150,13 @@ If you find this tool useful, please consider:
 - 💡 Suggesting new features
 - 📢 Sharing with the community
 
+## 📫 Contact
+
+Feel free to reach out for collaboration, feedback, or inquiries:
+
+- **Email:** marwankhodair0@gmail.com
+- **LinkedIn:** [www.linkedin.com/in/marwan-khodair](https://www.linkedin.com/in/marwan-khodair)
+
 ---
 
 **Happy Hunting! 🎯**
