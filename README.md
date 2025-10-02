@@ -128,32 +128,6 @@ https://dev.example.com/.git/HEAD [200]
 
 The author (@0xmarvul) is not responsible for any misuse or damage caused by this tool.
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Ideas for Contribution
-- Add more sensitive paths to existing categories
-- Suggest new scanning categories
-- Improve performance or error handling
-- Add new features (e.g., custom wordlists, rate limiting)
-- Improve documentation
-
-## 📝 Roadmap
-
-- [ ] Custom wordlist support
-- [ ] Rate limiting options
-- [ ] Multi-threaded scanning
-- [ ] JSON/CSV export options
-- [ ] Integration with other recon tools
-- [ ] Web dashboard for results
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
