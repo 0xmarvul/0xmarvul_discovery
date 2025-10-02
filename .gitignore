@@ -1,0 +1,20 @@
+# Output files from the scanner
+discovery_*.txt
+*.log
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-*
+
+# Test domains
+test_domains.txt
